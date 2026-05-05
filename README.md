@@ -10,6 +10,9 @@ use cases for fashion, beauty, and healthcare brands.
 - **SQL** (SQLite) — business queries & insight extraction  
 - **Power BI** — interactive dashboard
 
+## Dashboard Preview
+![Dashboard](dashboard_preview.png)
+
 ## Key Findings
 - 91.9% overall on-time delivery rate across 96,478 delivered orders
 - Average delivery time: 12.6 days — highlighting same-day delivery opportunity
@@ -18,10 +21,8 @@ use cases for fashion, beauty, and healthcare brands.
 - AL state has 23.9% late delivery rate vs 3% for best performing states
 - Nearly 0% customer retention — directly linked to poor delivery experience
 
-## Dashboard Preview
-![Dashboard](Dashboard.pbix)
-
 ## Project Structure
 - `analysis.ipynb` — Python analysis notebook
 - `Blitz_Delivery_Dashboard.pbix` — Power BI dashboard
+- `dashboard_preview.png` — Dashboard screenshot
 - `*.csv` — cleaned datasets for each analysis
